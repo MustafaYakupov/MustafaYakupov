@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Mustafa Yakupov**, a junior developer in training passionate about technology and eager to learn new things. I’m currently building my skills in **C# and JavaScript**, and working on small projects to gain practical experience.
+I'm **Mustafa Yakupov**, a junior developer passionate about technology and eager to learn new things. I’m currently building my skills in **C# and JavaScript**, and working on small projects to gain practical experience.
 
 - 🌱 I have completed the C# path in: **SoftUni**
 - 🤝 I’m open to collaborating on: **Beginner-friendly projects and open-source contributions**
